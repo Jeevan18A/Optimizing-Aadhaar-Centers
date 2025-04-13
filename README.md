@@ -1,1 +1,3 @@
 # Optimizing-Aadhaar-Centers
+
+The strategic placement of Aadhaar enrollment centers in Jammu and Kashmir, considering its unique context, is crucial for equitable access to government services. A machine learning approach using night lights data to identify development levels and census data for population distribution optimizes center locations. Clustering and geospatial analysis minimize travel distance and maximize coverage based on population density, infrastructure, and socio-economic factors. This data-driven model with high reliability (silhouette score of 0.8615 for urbanization and 98.13% for center selection) aids policymakers in improving service delivery and regional equity.
